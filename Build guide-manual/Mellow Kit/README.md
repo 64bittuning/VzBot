@@ -7,8 +7,8 @@ This is still a beta release, and we will try our best to help you through this 
 
 This section will help to determine what you need to print in advance for the build. It will be devided by section and STLs can be found in the [Assemblies BOM and STL](/Assemblies%20BOM%20and%20STL)
 
-## [Alignment tools](/Assemblies%20BOM%20and%20STL/Alignement%20Tools): 
-- [Z alignment tool for 10mm Rods](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignement%20Tools/Z%20Alligment%20tool%2010mm%20rod.stl) x2
+## [Alignment tools](/Assemblies%20BOM%20and%20STL/Alignment%20Tools): 
+- [Z alignment tool for 10mm Rods](/Assemblies%20BOM%20and%20STL/Alignment%20Tools/Z%20Alignment%20tool%2010mm%20rod.stl) x2
 - You do not need to print the MGN rail alignment tool(s) as the gantry is pre-assembled.
 
 ## [Frame](/Assemblies%20BOM%20and%20STL/Frame)
@@ -51,11 +51,14 @@ NOTE: The motor/idler mounts may have been assembled the wrong position for the 
 
 - [X end stop switch mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/X-endstop-mount.stl)
 - [cable holder ](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/cable_holder.stl)
-- [fan duct lower Goliath](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/fan%20duct%20lower%20Goliath.stl)
+- [fan duct lower Goliath](https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20long.stl)
 - [fan duct lower Goliath spacers](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/fan%20duct%20lower%20Goliath%20spacers.stl)
 - [fan duct upper](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct.stl)
 - [upper duct mount](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct%20mount.stl)
 - [upper duct cpap c clamp](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/c-clamp.stl)
+- [Goliath 2510 fan duct](https://github.com/VzBoT3D/Goliath/blob/main/STL/Air%20Cool%20Fan%20duct/Fan%20duct%202510-With%20flange%20for%20Vz-Printhead%20CNC.stl)
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/37383368/214460290-3fa1b67c-b6f5-406e-973e-913280dc1212.png">
+
 
 ## [Z complete system (pdf manual here)](/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum)
 <img width="709" alt="image" src="https://user-images.githubusercontent.com/37383368/210116113-fcefb1c3-d0aa-4042-86ad-bc0f0d15b7de.png">
